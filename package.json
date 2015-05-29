@@ -1,0 +1,16 @@
+{
+  "name": "my_command",
+  "version": "1.0.0",
+  "description": "my command script use node.js",
+  "main": "command.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlexLee",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.0.0",
+    "commander": "^2.8.1",
+    "edge": "^0.10.1"
+  }
+}
